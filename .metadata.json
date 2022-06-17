@@ -1,0 +1,14 @@
+[
+  {
+    "package": "kelvin",
+    "oncran": true
+  },
+  {
+    "package": "kitagawa",
+    "oncran": true
+  },
+  {
+    "package": "psd",
+    "oncran": true
+  }
+]

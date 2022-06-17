@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "kelvin"]
+	path = kelvin
+	url = https://github.com/abarbour/kelvin
+	shallow = true
+	registered = true
+[submodule "kitagawa"]
+	path = kitagawa
+	url = https://github.com/abarbour/kitagawa
+	shallow = true
+	registered = true
+[submodule "psd"]
+	path = psd
+	url = https://github.com/abarbour/psd
+	shallow = true
+	registered = true
