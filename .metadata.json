@@ -1,10 +1,10 @@
 [
   {
-    "package": "kitagawa",
+    "package": "kelvin",
     "oncran": true
   },
   {
-    "package": "kelvin",
+    "package": "kitagawa",
     "oncran": true
   },
   {
